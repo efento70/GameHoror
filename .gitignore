@@ -1,2 +1,9 @@
 Library/*
 Logs/*
+Temp/*
+*.vsconfig
+*.sln
+obj/*
+UserSettings/*#
+*.csproj
+.vs/GameHoror/v16/.suo
